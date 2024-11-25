@@ -22,7 +22,6 @@ This is the frontend application for the **Writer/Editor Dashboard**, built usin
 - **Vue.js 3**: Reactive framework for building modern web apps.
 - **Pinia**: State management for Vue.js.
 - **Axios**: HTTP client for API communication.
-- **Tailwind CSS** *(optional)*: Utility-first CSS framework for styling.
 
 ---
 
@@ -40,8 +39,8 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/writer-editor-dashboard-frontend.git
-cd writer-editor-dashboard-frontend
+git clone https://github.com/rodche-web/archintel-exam-client.git
+cd archintel-exam-client
 ```
 
 ### 2. Install Dependencies
