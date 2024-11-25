@@ -54,7 +54,7 @@ npm install
 Create a `.env` file in the root directory and configure the backend API URL:
 
 ```env
-VITE_API_URL=http://localhost:3000/api
+VITE_API_URL=http://localhost:8000
 VITE_S3_BUCKET_URL=bucket-url-here
 ```
 
