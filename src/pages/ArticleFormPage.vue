@@ -219,7 +219,7 @@
     const userId = localStorage.getItem('userId')
     const userType = localStorage.getItem('userType')
 
-    const bucketURL = import.meta.env.VITE_S3_BUCKET_URL || 'https://upload-test-0d1n.s3.us-east-1.amazonaws.com/'
+    const bucketURL = import.meta.env.VITE_S3_BUCKET_URL
 
     const payload = {
       ...formData.value,
