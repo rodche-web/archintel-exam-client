@@ -1,0 +1,27 @@
+{
+  "name": "archintel-exam-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tiptap/extension-heading": "^2.10.2",
+    "@tiptap/extension-image": "^2.10.2",
+    "@tiptap/extension-link": "^2.10.2",
+    "@tiptap/pm": "^2.10.2",
+    "@tiptap/starter-kit": "^2.10.2",
+    "@tiptap/vue-3": "^2.10.2",
+    "axios": "^1.7.7",
+    "pinia": "^2.2.6",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10"
+  }
+}
